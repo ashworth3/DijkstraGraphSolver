@@ -26,13 +26,13 @@ A C++ implementation of Dijkstra’s algorithm using a custom min-heap and adjac
 
 ```bash
 g++ main.cpp -o dijkstra
-
+```
 ---
 
 ## How to Run
-
-use: ./dijkstra
-
+```bash
+./dijkstra
+```
 ---
 
 ## Example Menu
