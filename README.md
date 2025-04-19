@@ -1,6 +1,6 @@
 # DijkstraGraphSolver
 
-A C++ implementation of Dijkstra’s algorithm using a custom min-heap and adjacency list. This tool reads graphs from file and allows users to run shortest path queries from a command-line menu interface.
+A C++ implementation of Dijkstra’s algorithm featuring a custom min-heap and dynamic adjacency list. Built as an interactive CLI-based pathfinding tool that reads graphs from file and supports both directed and undirected modes. Allows users to run shortest path queries, print paths and distances, and visualize the adjacency list. Emphasizes efficient heap operations and memory-safe graph traversal through modular design.
 
 ---
 
