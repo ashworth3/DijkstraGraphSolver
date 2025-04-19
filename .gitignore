@@ -1,0 +1,14 @@
+# Ignore compiled binaries
+dijkstra
+main
+*.exe
+*.out
+*.o
+*.obj
+
+# macOS specific
+.DS_Store
+
+# Debug or build folders (optional, depending on your environment)
+*.dSYM/
+build/
